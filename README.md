@@ -20,19 +20,19 @@ This GitHub repository is dedicated to a comprehensive case study in the telecom
 
 The following features have been identified as significant predictors of churn:
 
-loc_ic_mou_8
-gd_ph_loc_ic_mou
-last_day_rch_amt_8
-total_rech_num_8
-spl_ic_mou_8
-monthly_3g_8
-aon
-monthly_2g_8
-sachet_2g_8
-vbc_3g_8
-Key Insights
+1. loc_ic_mou_8
+2. gd_ph_loc_ic_mou
+3. last_day_rch_amt_8
+4. total_rech_num_8
+5. spl_ic_mou_8
+6. monthly_3g_8
+7. aon
+8. monthly_2g_8
+9. sachet_2g_8
+10. vbc_3g_8
 
-### Observations and Suggestions
+
+### Key Insights
 -> Most of the top predictors are derived from month 8, a critical action phase where customer interactions become pivotal, emphasizing the importance of focusing on this period.
 
 -> Churners tend to have significantly lower network usage during the action phase, directly impacting the company's revenue.
