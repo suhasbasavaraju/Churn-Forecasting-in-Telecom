@@ -1,4 +1,4 @@
-# Telecom-High-Risk-Churn-Prediction
+# Churn Forecasting in Telecom
 
 This GitHub repository is dedicated to a comprehensive case study in the telecom industry, focused on analyzing customer-level data. The primary objective is to construct predictive models that effectively identify customers at high risk of churn. Additionally, this project aims to discern the key indicators and patterns associated with churn within this competitive sector.
 
